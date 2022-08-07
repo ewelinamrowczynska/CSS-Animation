@@ -29,15 +29,6 @@ svg {
     }
 }
 
-@keyframes pause-anim {
-    from {
-        transform: scale(0);
-    }
-    to {
-        transform: scale(0);
-    }
-}
-
 #circle-semi-line path {
     animation: circle-rotation 3s infinite linear;
     transform-origin: 36% 34%;
